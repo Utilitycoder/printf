@@ -453,4 +453,4 @@ Output:
 ## Authors
 
 * Abubakar Lawal B. <[utilitycoder](https://github.com/utilitycoder)>
-* Nwachukwu Stanley Onyebuchi <[Stan](https://github.com/stan)>
+* Nwachukwu Stanley Onyebuchi <[Stanvirgo](https://github.com/Stanvirgo)>
